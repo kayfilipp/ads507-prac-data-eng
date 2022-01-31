@@ -1,0 +1,21 @@
+Redshift
+(https://console.aws.amazon.com/redshiftv2/home?region=us-east-1#create-cluster)
+
+1. create cluster 
+2. admin: fkrasovsky
+3. password: Uosandiego2022!
+
+4. select "query data" to use the redshift query editor in-browser 
+(https://console.aws.amazon.com/sqlworkbench/home?region=us-east-1#/client)
+
+5. in editor:
+	click on cluster > sample_data_dev > tickit 
+	a prompt will ask you to create tickit data. confirm. 
+	
+	
+IAM USER CREDENTIALS:
+	iam-usd-user
+	AKIAQVQ7KFZPIZHOANMT
+	secret key{
+		VBPQgsUJ1GMlEGGlfjmdRD9xNnU/nUPTWU4Xxd4w
+	}
